@@ -1,0 +1,6 @@
+name: CustomTradeEventPlugin
+version: 1.0
+main: com.popupmc.customtradeevent.CustomTradeEventPlugin
+description: Custom Trade Event
+author: junebug12851
+api-version: 1.16
